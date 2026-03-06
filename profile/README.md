@@ -1,11 +1,4 @@
-![](https://cdn.rdbl.app/opengraph/cover.png)
-<br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/withglyph/.github/assets/337728/bd97af93-88ab-4a22-95c7-c2ce7b04dfdd">
-  <img src="https://github.com/withglyph/.github/assets/337728/25ec2814-f393-4d56-9375-18ddaa91ff11" height="100">
-</picture>
-<br />
-<br />
+![](https://cdn.typie.net/opengraph/default.png)
 
 ## 이런 기술을 쓰고 있어요
 
