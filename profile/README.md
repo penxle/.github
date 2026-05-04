@@ -1,4 +1,4 @@
-![](https://cdn.typie.net/opengraph/default.png)
+![](https://cdn.typie.net/opengraph/default-v3.png)
 
 ## 이런 기술을 쓰고 있어요
 
