@@ -10,19 +10,19 @@
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 백엔드
-![Bun](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 <br />
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Meilisearch](https://img.shields.io/badge/meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### 인프라
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Pulumi](https://img.shields.io/badge/pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 생산성 & 툴링
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -36,7 +36,6 @@
 ![Graphite](https://img.shields.io/badge/graphite-000000.svg?style=for-the-badge&logo=graphite&logoColor=white)
 
 ### 데이터 & 모니터링
-![Plausible](https://img.shields.io/badge/plausible-5850EC?style=for-the-badge&logo=plausibleanalytics&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
